@@ -1,5 +1,5 @@
 
-/*   Threefish-1024 port from Java implementation of Skein by Maarten Bodewes      */
+
 /*                      Oleg Plotnikov                                      */
 /*                                                                                 */
 
